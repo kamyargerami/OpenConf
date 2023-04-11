@@ -1,0 +1,14 @@
+.gallery-image {
+    min-height: 200px;
+    max-height: 25vh;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.social-buttons li a {
+    padding-top: 4px;
+}
